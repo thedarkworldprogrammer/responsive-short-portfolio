@@ -1,1 +1,1 @@
-**Live Preview 👉** https://darkworldprogrammer.github.io/responsive-short-portfolio/
+**Live Preview 👉** https://responsive-short-portfolio.vercel.app/
